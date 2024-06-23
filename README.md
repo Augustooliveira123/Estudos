@@ -49,4 +49,14 @@ Teste de imagem: Basta acessar Attach files by dragging & dropping, selecting or
 ---
 ![Real-Gabinete-Portugues-de-Leitura-RGPL](https://github.com/Augustooliveira123/Estudos/assets/169821762/d8b7106d-3653-4dd6-9309-44f5a038bde1)
 ---
-Imagem obtida em [URL](https://le.com.br/blog/wp-content/uploads/2021/09/Real-Gabinete-Portugues-de-Leitura-RGPL.jpg)
+Imagem obtida em [LINK](https://le.com.br/blog/wp-content/uploads/2021/09/Real-Gabinete-Portugues-de-Leitura-RGPL.jpg)
+---
+Tabelas:
+
+Num| Nome| Nota
+---|---|---
+1|Augusto|9.5
+2|Gabriel|8
+3|Ana|7
+4|Gabriela|8.75
+
