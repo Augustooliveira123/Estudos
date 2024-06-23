@@ -60,3 +60,7 @@ Num| Nome| Nota
 3|Ana|7
 4|Gabriela|8.75
 
+Terminou a tabela
+---
+Teste de emoji🖖 Para achar os nome dos emojis basta acessar [Clicar aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+
