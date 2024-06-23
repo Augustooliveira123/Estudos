@@ -65,5 +65,5 @@ Terminou a tabela
 Teste de emoji: 🖖 Para achar os nome dos emojis basta acessar [Clicar aqui](https://github.com/ikatyang/emoji-cheat-sheet) ou [emojipedia.org](https://emojipedia.org/)
 
 ---
-Para aprender mais sobre a Linguagem Markdown acesse [este pdf do curso em vídeo](manuais-PDF/guia-markdown.pdf)
+Para aprender mais sobre a Linguagem Markdown acesse [este pdf do curso em vídeo](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
 
