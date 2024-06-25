@@ -8,7 +8,15 @@ Por exemplo, posso dizer a palavra **vaca** e se você desconhece tal palavra, e
 Ele foi um dos primeiros instrumentos de cálculo que posibilitaram a existência dos computadores.
 Entretanto, por mais útil e prático que seja, ainda exirge que alguém o manuseiem manualmente. 
 ***
-## Renascença 
-* 1642 Ao ser obrigado a supervisionar a coleta de impostos 
+* 1642 Blaise Pascal ao ser obrigado por seu pai a supervisionar a coleta de impostos entediado com a rotina, inventou a primeira cálculadora mecânica, que realizava somas, subtrações, divisões e multiplicações automáticamente.
+![Blaise](https://github.com/Augustooliveira123/Estudos/assets/169821762/4a82cc32-35ef-4c99-91a0-e8545e6ff6c9)
+Entretanto ainda realiza "apenas" a manipulação de números.
+
+* 1843 __*Ada Lovelace*__ publicou um artigo sobre uma nova máquina de cálcular, usando engrenagens e manivelas, a máquina de cálcular deixaria de ser apenas para números, e seria capaz de manipular palavras, lógica e músicas, qualquer coisa que usasse símbolos para ser transmitidos. Por conta da época em que vivia, ela decidiu publicar como notas da tradutora e não como artigo cientifíco próprio.
+
+   * Charles Babbage, o criador da máquina impressionou a Condessa anteriormente, com sua versão anterior, uma máquina de cálcular funções inteiras, mas por falta de fundos não conseguia construi-la por completo, pois o governo britânico dúvidava da eficacia de tal máquina, em resposta, ele decidiu inventar uma melhor ainda, A Máquina Analítica.
+![charles-babbages-calculating-machine-the-difference-engine-1800s-hand-colored-woodcut-of-an-illustration-MKPG62](https://github.com/Augustooliveira123/Estudos/assets/169821762/c6d535c7-8d77-4c98-82c4-548c177aeb13)
+
+Babbage se inspirou no Tear de Jacquard, que conseguia ler papéis furados e costurar padrões de fios de seda de acordo com esses furos. Assim como o tear, a máquina poderia alterar seu funcionamento para executar qualquer tarefa sonhada pelo seu úsuario, em outras palavras, a máquina poderia ser programada assim como os computadores modernos. Nos seus comentários Ada adicionou a sequência de instruções que permitiria a Máquina Análitica calcular números de Bernoulli, tornando-a a primeira __*Programadora do primeiro código de computador publicado da História*__
 
 
